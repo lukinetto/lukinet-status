@@ -1,5 +1,23 @@
 [
   {
+    "name": "Server",
+    "url": "94.23.66.84",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Lukinetto",
     "url": "https://www.lukinetto.it",
     "icon": "https://favicons.githubusercontent.com/www.lukinetto.it",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1494,
-    "timeDay": 1494,
-    "timeWeek": 1494,
-    "timeMonth": 1494,
-    "timeYear": 1494,
+    "time": 1631,
+    "timeDay": 1631,
+    "timeWeek": 1631,
+    "timeMonth": 1631,
+    "timeYear": 1631,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1359,
-    "timeDay": 1359,
-    "timeWeek": 1359,
-    "timeMonth": 1359,
-    "timeYear": 1359,
+    "time": 1471,
+    "timeDay": 1471,
+    "timeWeek": 1471,
+    "timeMonth": 1471,
+    "timeYear": 1471,
     "dailyMinutesDown": {}
   }
 ]
