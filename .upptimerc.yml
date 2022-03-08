@@ -3,6 +3,10 @@ owner: lukinetto # Your GitHub organization or username, where this repository l
 repo: lukinet-status # The name of this repository
 
 sites:
+  - name: Server
+    check: "tcp-ping"
+    url: 94.23.66.84
+    port: 53
   - name: Lukinetto
     url: https://www.lukinetto.it
   - name: Autoricambi 2A
@@ -11,17 +15,18 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: lukinet.cluster031.hosting.ovh.net
-  baseUrl: /lukinet-status
+  cname: lukinetto.it
+  # baseUrl: /lukinet-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Lukinet Server Status
+  introTitle: "**Lukinet Server Status**"
+  introMessage: In questa pagina puoi visualizzare lo status del server e dei servizi associati al cluster Lukinet
   navbar:
-    - title: Status
+    - title: Home
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
