@@ -7,8 +7,6 @@ sites:
     check: "tcp-ping"
     url: 94.23.66.84
     port: 53
-  - name: Cluster
-  url: $lukinet.cluster031.hosting.ovh.net
   - name: Lukinetto
     url: https://www.lukinetto.it
   - name: Autoricambi 2A
