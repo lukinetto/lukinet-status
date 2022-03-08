@@ -1,4 +1,4 @@
-# [📈 Live Status](https://lukinet.cluster031.hosting.ovh.net): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.lukinetto.it): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [lukinetto](https://lukinet.cluster031.hosting.ovh.net), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -22,7 +22,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://lukinet.cluster031.hosting.ovh.net)
+[**Visit our status website →**](https://https://status.lukinetto.it)
 
 ## 📄 License
 
