@@ -4,11 +4,11 @@ repo: lukinet-status # The name of this repository
 
 sites:
   - name: Server
-    check: "tcp-ping"
-    url: 94.23.66.84
-    port: 53
+    url: $IP_SERVER
   - name: Lukinetto
     url: https://www.lukinetto.it
+  - name: Resistenza Roma
+    url: https://www.resistenzaroma.it
   - name: Autoricambi 2A
     url: https://www.autoricambi2a.it
 
