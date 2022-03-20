@@ -1,25 +1,5 @@
 [
   {
-    "name": "Server",
-    "url": "$IP_SERVER",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "server",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 175,
-    "timeDay": 175,
-    "timeWeek": 175,
-    "timeMonth": 175,
-    "timeYear": 175,
-    "dailyMinutesDown": {
-      "2022-03-20": 5
-    }
-  },
-  {
     "name": "Lukinetto",
     "url": "https://www.lukinetto.it",
     "icon": "https://favicons.githubusercontent.com/www.lukinetto.it",
@@ -30,32 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1529,
-    "timeDay": 1380,
-    "timeWeek": 1500,
-    "timeMonth": 1529,
-    "timeYear": 1529,
+    "time": 1531,
+    "timeDay": 1426,
+    "timeWeek": 1506,
+    "timeMonth": 1531,
+    "timeYear": 1531,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Resistenza Roma",
-    "url": "https://resistenzaroma.it",
-    "icon": "https://favicons.githubusercontent.com/resistenzaroma.it",
-    "slug": "resistenza-roma",
-    "status": "down",
-    "uptime": "1.04%",
-    "uptimeDay": "1.04%",
-    "uptimeWeek": "1.04%",
-    "uptimeMonth": "1.04%",
-    "uptimeYear": "1.04%",
-    "time": 1202,
-    "timeDay": 1202,
-    "timeWeek": 1202,
-    "timeMonth": 1202,
-    "timeYear": 1202,
-    "dailyMinutesDown": {
-      "2022-03-20": 4
-    }
   },
   {
     "name": "Autoricambi 2A",
@@ -68,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1454,
-    "timeDay": 1293,
-    "timeWeek": 1414,
-    "timeMonth": 1454,
-    "timeYear": 1454,
+    "time": 1456,
+    "timeDay": 1344,
+    "timeWeek": 1423,
+    "timeMonth": 1456,
+    "timeYear": 1456,
     "dailyMinutesDown": {}
   }
 ]
