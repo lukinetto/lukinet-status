@@ -1,7 +1,7 @@
 url: $IP_SERVER
 status: down
-code: 404
-responseTime: 175
-lastUpdated: 2022-03-20T17:46:27.787Z
+code: 0
+responseTime: 0
+lastUpdated: 2022-03-20T17:50:47.433Z
 startTime: Tue Mar 08 2022 15:01:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
