@@ -24,7 +24,7 @@
     "url": "https://www.autoricambi2a.it",
     "icon": "https://favicons.githubusercontent.com/www.autoricambi2a.it",
     "slug": "autoricambi-2-a",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 1353,
     "timeMonth": 1489,
     "timeYear": 1494,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-17": 0
+    }
   }
 ]
