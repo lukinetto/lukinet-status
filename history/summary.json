@@ -10,11 +10,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 1654,
-    "timeDay": 1407,
-    "timeWeek": 2066,
-    "timeMonth": 1685,
-    "timeYear": 1654,
+    "time": 1657,
+    "timeDay": 1823,
+    "timeWeek": 2144,
+    "timeMonth": 1700,
+    "timeYear": 1657,
     "dailyMinutesDown": {
       "2022-04-11": 25
     }
@@ -25,18 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/www.autoricambi2a.it",
     "slug": "autoricambi-2-a",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1484,
-    "timeDay": 1272,
-    "timeWeek": 1315,
-    "timeMonth": 1476,
-    "timeYear": 1484,
-    "dailyMinutesDown": {
-      "2022-04-17": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1492,
+    "timeDay": 1452,
+    "timeWeek": 1425,
+    "timeMonth": 1494,
+    "timeYear": 1492,
+    "dailyMinutesDown": {}
   }
 ]
