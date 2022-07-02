@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.lukinetto.it",
     "slug": "lukinetto",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1703,
-    "timeDay": 1559,
-    "timeWeek": 1806,
-    "timeMonth": 1759,
-    "timeYear": 1703,
+    "uptimeYear": "99.99%",
+    "time": 1704,
+    "timeDay": 1875,
+    "timeWeek": 1799,
+    "timeMonth": 1758,
+    "timeYear": 1704,
     "dailyMinutesDown": {
       "2022-04-11": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1484,
-    "timeDay": 1300,
-    "timeWeek": 1646,
-    "timeMonth": 1522,
-    "timeYear": 1484,
+    "time": 1487,
+    "timeDay": 1894,
+    "timeWeek": 1680,
+    "timeMonth": 1525,
+    "timeYear": 1487,
     "dailyMinutesDown": {}
   }
 ]
