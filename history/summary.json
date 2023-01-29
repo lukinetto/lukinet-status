@@ -4,7 +4,7 @@
     "url": "https://www.lukinetto.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.lukinetto.it.ico",
     "slug": "lukinetto",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1822,
     "timeYear": 1766,
     "dailyMinutesDown": {
+      "2023-01-29": 0,
       "2022-09-20": 47,
       "2022-07-21": 124,
       "2022-04-11": 25
