@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lukinetto.it.ico",
     "slug": "lukinetto",
     "status": "up",
-    "uptime": "57.13%",
+    "uptime": "57.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "68.11%",
-    "time": 3972,
-    "timeDay": 4076,
-    "timeWeek": 3508,
-    "timeMonth": 3578,
-    "timeYear": 3972,
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "68.38%",
+    "time": 3969,
+    "timeDay": 3056,
+    "timeWeek": 3465,
+    "timeMonth": 3433,
+    "timeYear": 3969,
     "dailyMinutesDown": {
       "2024-11-28": 23,
       "2024-11-11": 526,
@@ -136,8 +136,7 @@
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
-      "2023-12-14": 1440,
-      "2023-12-13": 1440
+      "2023-12-14": 1440
     }
   },
   {
@@ -146,7 +145,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.autoricambi2a.it.ico",
     "slug": "autoricambi-2-a",
     "status": "down",
-    "uptime": "32.38%",
+    "uptime": "32.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -157,7 +156,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-11": 76,
+      "2024-12-12": 76,
+      "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -520,8 +520,7 @@
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
-      "2023-12-14": 1440,
-      "2023-12-13": 1440
+      "2023-12-14": 1440
     }
   }
 ]
